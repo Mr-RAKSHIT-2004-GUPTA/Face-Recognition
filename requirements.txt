@@ -1,5 +1,8 @@
-insightface
-opencv-python
-numpy
-flask
+Flask
 gradio
+opencv-python
+insightface
+requests
+numpy
+scikit-learn
+onnxruntime
